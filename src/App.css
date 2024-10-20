@@ -1,0 +1,40 @@
+p, .container-fluid {
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #e4f1fe;
+  font-family: 'Comic Sans MS';
+}
+
+.well {
+  margin-right: 3%;
+  margin-left: 3%;
+  background-color: #1481cc;
+  transition: background 2s;
+}
+footer {
+  min-height: 8vh;
+  padding-top: 20px;
+  padding-bottom: 1px;
+  background-color: black;
+}
+section {
+  min-height: 91.8vh;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.btn{
+  border: 0;
+  outline: 0;
+  background: #cc4514;
+  color: white;
+  padding: 10px 30px;
+  transition: background .5s;
+  cursor: pointer;
+}
+
+.btn:hover{
+  background: #cc7514;
+}

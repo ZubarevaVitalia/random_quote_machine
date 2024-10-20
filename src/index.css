@@ -1,0 +1,6 @@
+
+body {
+  position: relative;
+  background-color: #1481cc;
+  transition: background 2s;
+}
